@@ -18,7 +18,7 @@
 Projeto com o objetivo de criar um artigo técnico utilizando Inteligência Artificial.
 Abaixo, você encontrará todos os prompts utilizados no desenvolvimento do Artigo.
 
-<a href="https://web.dio.me/articles/defenda-seus-dispositivos-estrategias-essenciais-para-seguranca-em-iot?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://dio.me/articles/defenda-seus-dispositivos-estrategias-essenciais-para-seguranca-em-iot" > 📕Clique aqui para ler o artigo</a>
 
 ---
 
