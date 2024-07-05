@@ -51,7 +51,7 @@ Abaixo, você encontrará todos os prompts utilizados no desenvolvimento do Arti
 
 ## ⚙️ Estrutura do Projeto
 
-- 📁 As imagens utilizadas no Artigo estão localizadas no diretório `articles_images`.
+- 📁 As imagens utilizadas no Artigo estão localizadas no diretório `article_images`.
   
 
 ## 📜 Instruções de Execução
