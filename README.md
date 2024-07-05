@@ -13,18 +13,19 @@
 ## Projeto Artigo Técnico gerado por I.A.s
 
 
- > ℹ️ Projeto com o obketivo de criar um artigo técnico através de Inteligência Artificial, no qual foi desenvolvido durante o curso Bootcamp Santander 2024 - Fundamentos de IA para Devs
-na plataforma da [DIO](https://dio.me)
+ > ℹ️ Repositório criado durante o curso Bootcamp Santander 2024 - Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me)
 
+Projeto com o objetivo de criar um artigo técnico utilizando Inteligência Artificial.
+Abaixo, você encontrará todos os prompts utilizados no desenvolvimento do Artigo.
 
 <a href="https://web.dio.me/articles/defenda-seus-dispositivos-estrategias-essenciais-para-seguranca-em-iot?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ---
 
-## 💻 Tecnologias Utilizadas na criação do Ebook
+## 💻 Tecnologias Utilizadas na criação do Artigo
 
 - 🧠 [OpenAI GPT-4](https://chat.openai.com/) 
-- 🎨 [Squaad-AI](https://squaadinc.com/)
+- 🎨 [Lexica.art](https://lexica.art/)
 - 📚 [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ---
@@ -33,8 +34,8 @@ na plataforma da [DIO](https://dio.me)
 
 | Ação         | Prompt                        |
 |--------------|-------------------------------|
-| **Título**   | Crie um título de um ebook sobre o tema segurança de senha, o ebook é do nicho segurança da informação e subnicho cibersegurança, o título deve ser épico e curto, e tenha uma temática nerd. Me liste 5 variações|
-| **Conteúdo** | Faça um texto para ebook, com foco em dicas de segurança de senha, listando os principais pontos para ter senha segura com exemplos {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto,Sempre traga exemplos em contextos reais, Sempre deixe um título sugestivo por tópico|
+| **Título**   | Me dê 10 ideias de temas relacionados a tecnologia pra que eu possa criar um artigo técnico|
+| **Conteúdo** | Comporte-se como um escritor de artigos de tecnologia e segurança da informação e escreva o artigo atendendo as regras{REGRAS}No máximo 5 linhas por blocos de explicação.Me explique de maneira informal, como se eu fosse uma pessoa leiga.Faça um call to action para minhas redes sociais.Coloque 3 hashtags que façam sentido.Crie subtítulos e separa por blocos cada parte|
 
 
 ## 🎨 Squaad-AI:
