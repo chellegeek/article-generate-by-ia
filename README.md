@@ -38,38 +38,35 @@ Abaixo, você encontrará todos os prompts utilizados no desenvolvimento do Arti
 | **Conteúdo** | Comporte-se como um escritor de artigos de tecnologia e segurança da informação e escreva o artigo atendendo as regras{REGRAS}No máximo 5 linhas por blocos de explicação.Me explique de maneira informal, como se eu fosse uma pessoa leiga.Faça um call to action para minhas redes sociais.Coloque 3 hashtags que façam sentido.Crie subtítulos e separa por blocos cada parte|
 
 
-## 🎨 Squaad-AI:
+## 🎨 Lexica.art
+  🔵 Utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa utilizados durante a criação do artigo foram:
+   - 📄 cyber attack
+   - 📄 IoT
 
-|  Ação  | Prompt                                             |
-| :----: | ---------------------------------------------------|
-| título | Crie uma imagem de um escudo dourado com fundo azul|
 
 ## ⚒️ Ferramentas
 
-- 📄 O conteúdo do eBook foi criado utilizando o ChatGPT.
-- 🎨 As imagens foram geradas no Squaad-AI.
+- 📄 O conteúdo do Artigo foi criado utilizando o ChatGPT.
+- 🎨 As imagens foram geradas pelo Lexica.art.
 
 ## ⚙️ Estrutura do Projeto
 
-- 📁 As imagens utilizadas no eBook estão localizadas no diretório `assets`.
-- 📁 O eBook criado está localizado no diretório `output`.
-
+- 📁 As imagens utilizadas no Artigo estão localizadas no diretório `articles_images`.
+  
 
 ## 📜 Instruções de Execução
 
-Para criar o eBook utilizando este projeto, siga os passos abaixo:
+Para criar o artigo utilizando este projeto, siga os passos abaixo:
 
-1. Utilize os prompts fornecidos acima nas ferramentas sugeridas, como OpenAI GPT-4 para gerar o conteúdo base do eBook.
+1. Utilize os prompts fornecidos acima nas ferramentas sugeridas, como OpenAI GPT-4 para gerar o conteúdo base do Artigo.
 
-2. Utilize uma ferramenta de edição de documentos, como PowerPoint, LibreOffice ou InDesign, para realizar a diagramação e formatação do eBook.
+2. Utilize uma ferramenta de edição de documentos, como PowerPoint, LibreOffice ou InDesign, para realizar a diagramação e formatação do Artigo.
 
-3. Combine o conteúdo gerado com as imagens criadas no Squaad-AI ou outra ferramenta para gerar imagens, seguindo as diretrizes de design e layout de sua escolha.
+3. Combine o conteúdo gerado com as imagens criadas no Lexica.art ou outra ferramenta para gerar imagens, seguindo as diretrizes de design e layout de sua escolha.
 
-4. Exporte o eBook no formato desejado, como PDF ou ePub, garantindo que todos os elementos estejam corretamente integrados e formatados conforme suas preferências.
+4. Revise o Artigo finalizado para assegurar que o conteúdo esteja claro, coeso e livre de erros.
 
-5. Revise o eBook finalizado para assegurar que o conteúdo esteja claro, coeso e livre de erros.
-
-✅ Essas etapas ajudarão a transformar o material gerado por IA em um eBook bem estruturado e visualmente atraente.
+✅ Essas etapas ajudarão a transformar o material gerado por IA em um Artigo bem estruturado e visualmente atraente.
 
 ## 👩‍💻 Aprendiz
 
