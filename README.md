@@ -10,15 +10,14 @@
 
 ---
 
-## Projeto EBOOK Gerado por I.A.s
+## Projeto Artigo Técnico gerado por I.A.s
 
 
- > ℹ️ Este é um eBook desenvolvido durante o curso Bootcamp Santander 2024 - Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me)
+ > ℹ️ Projeto com o obketivo de criar um artigo técnico através de Inteligência Artificial, no qual foi desenvolvido durante o curso Bootcamp Santander 2024 - Fundamentos de IA para Devs
+na plataforma da [DIO](https://dio.me)
 
-Este projeto tem como objetivo a criação de um eBook digital utilizando as facilidades proporcionadas por ferramentas de Inteligência Artificial. 
-Abaixo, você encontrará todos os prompts utilizados no desenvolvimento deste eBook.
 
-<a href="https://github.com/chellegeek/create-a-ebook-IA/blob/main/output/Ebook_Guia_Senhas_.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://web.dio.me/articles/defenda-seus-dispositivos-estrategias-essenciais-para-seguranca-em-iot?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ---
 
